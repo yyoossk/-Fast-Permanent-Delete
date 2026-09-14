@@ -21,9 +21,7 @@ It deletes files and folders **directly without moving them to the Recycle Bin**
 
 ## ダウンロード / Download
 
-最新版は GitHub の **Releases** からダウンロードできます。
-
-Download the latest version from **GitHub Releases**.
+https://github.com/yyoossk/-Fast-Permanent-Delete/releases
 
 * `高速完全削除_通常版.exe` — 32bit / Standard 32-bit version
 * `高速完全削除_64bit版.exe` — 64bit / 64-bit version
